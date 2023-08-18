@@ -1,4 +1,4 @@
-[![MasterHead](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp)]
+[![MasterHead]([https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif))]
 <h1 align="center">Hi 👋, I'm Shivendra Pratap Singh</h1>
 <h3 align="center">A passionate java developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Web Marketing Application**
 
-- 🌱 I’m currently learning **AngularJS, Thymeleaf.**
+- 🌱 I’m currently learning **AngularJS, Thymeleaf**
 
-- 🤝 I’m looking for Job in **Java Developer**
+- 🤝 I’m looking for job role in **Java Developer**
 
 - 📫 How to reach me **shivendra3550@gmail.com**
 
