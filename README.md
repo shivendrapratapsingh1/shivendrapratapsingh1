@@ -9,9 +9,11 @@
 
 - 🔭 I’m currently working on **Web Marketing Application**
 
-- 🌱 I’m currently learning **AngularJS, Thymeleaf**
+- 🌱 I’m currently learning **AngularJS, Thymeleaf.**
 
-- 🤝 I’m looking for job role in **Java Developer**
+- 💬 Ask me about **Core java, JDBC , SQL, Spring Boot**
+
+- 🤝 I’m looking for Job in **Java Developer**
 
 - 📫 How to reach me **shivendra3550@gmail.com**
 
